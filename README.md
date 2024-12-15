@@ -11,7 +11,7 @@ Welcome to the **Apple iPhone 15 Pro Showcase** repository! This project is a mo
 
 ## Preview
 
-Check out the live site here: [Live Demo](https://apple-website-ruby.vercel.app/)
+Check out the live site here: [Live Demo](https://apple-jowwan.vercel.app/)
 
 ## Installation
 
